@@ -1,0 +1,11 @@
+﻿  Main.cpp
+Main.cpp(122): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Main.cpp(178): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Main.cpp(181): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Main.cpp(182): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Main.cpp(196): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+d:\portfolio\profile\github\dungeon_maker\dungeon_maker\main.cpp(161): warning C4715: 'wheel': not all control paths return a value
+  All 428 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Dungeon_Maker.vcxproj -> D:\PORTFOLIO\Profile\GitHub\Dungeon_Maker\x64\Release\Dungeon_Maker.exe

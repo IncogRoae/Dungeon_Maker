@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\portfolio\profile\github\dungeon_maker\dungeon_maker\main.cpp(178): warning C4018: '<': signed/unsigned mismatch
+d:\portfolio\profile\github\dungeon_maker\dungeon_maker\main.cpp(179): warning C4018: '<': signed/unsigned mismatch
+d:\portfolio\profile\github\dungeon_maker\dungeon_maker\main.cpp(158): warning C4715: 'wheel': not all control paths return a value
+  Dungeon_Maker.vcxproj -> D:\PORTFOLIO\Profile\GitHub\Dungeon_Maker\Debug\Dungeon_Maker.exe
